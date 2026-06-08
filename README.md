@@ -40,7 +40,7 @@
 
 | Resume Generator | ATS Checker | Cover Letter |
 |:---:|:---:|:---:|
-| ![Resume](https://github.com/ashishraj-hub/AI-Resume-Portfolio-Builder/blob/main/assets/Resume%20Generator.png) | ![ATS](https://github.com/ashishraj-hub/AI-Resume-Portfolio-Builder/blob/main/assets/ATS%20Score%20Checker.png) | ![Cover](https://via.placeholder.com/280x180/00897B/ffffff?text=Cover+Letter) |
+| ![Resume](https://github.com/ashishraj-hub/AI-Resume-Portfolio-Builder/blob/main/assets/Resume%20Generator.png) | ![ATS](https://github.com/ashishraj-hub/AI-Resume-Portfolio-Builder/blob/main/assets/ATS%20Score%20Checker.png) | ![Cover](https://github.com/ashishraj-hub/AI-Resume-Portfolio-Builder/blob/main/assets/Cover%20Letter%20Generator.png) |
 
 > 💡 Replace the placeholders above with actual screenshots of your app for maximum impact.
 
