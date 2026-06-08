@@ -378,10 +378,23 @@ Feel free to use, modify, and build on it with attribution.
 
 <div align="center">
 
-**Made with ❤️ by [Ashish Raj](https://github.com/ashishraj-hub)**
+**Made by [Ashish Raj](https://github.com/ashishraj-hub)**
 
 *Helping students get hired, one resume at a time.*
 
 <img src="https://komarev.com/ghpvc/?username=ashishraj-hub&label=Profile+Views&color=6C63FF&style=flat" alt="Profile Views"/>
 
 </div>
+
+---
+
+<div align="center">
+
+**⭐ If this project helped you, please give it a star! It motivates continued development.**
+
+[![Star History](https://img.shields.io/github/stars/ashishraj-hub/AI-Resume-Portfolio-Builder?style=social)](https://github.com/ashishraj-hub/AI-Resume-Portfolio-Builder)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
+
