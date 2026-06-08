@@ -290,8 +290,8 @@ GEMINI_API_KEY=your_gemini_api_key_here
 ## 🎯 Use Cases
 
 ```
-👨‍🎓  Final-year students       →  Internship & campus placement resumes
-👩‍💼  Freshers (0–1 yr exp)     →  First job application documents
+👨‍🎓  Final-year students        →  Internship & campus placement resumes
+👩‍💼  Freshers (0–1 yr exp)      →  First job application documents
 💻  Developers & coders        →  GitHub portfolio + tech resumes
 🏫  College placement cells    →  Bulk resume preparation tool
 🎓  Career guidance platforms  →  Resume optimization at scale
