@@ -26,7 +26,7 @@
 
 <br/>
 
-> **🌐 Live App:** [Click here to try it now →]([[APP_LINK]](https://ai-resume-portfolio-builder-ashish.streamlit.app/))
+> **🌐 Live App:** [Click here to try it now →]([APP_LINK](https://ai-resume-portfolio-builder-ashish.streamlit.app/))
 > 
 > Deployed on **Streamlit Community Cloud** — free, fast, no setup needed.
 
