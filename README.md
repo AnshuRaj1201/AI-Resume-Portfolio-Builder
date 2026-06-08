@@ -40,7 +40,7 @@
 
 | Resume Generator | ATS Checker | Cover Letter |
 |:---:|:---:|:---:|
-| ![Resume](https://via.placeholder.com/280x180/6C63FF/ffffff?text=Resume+Generator) | ![ATS](https://via.placeholder.com/280x180/FF4B4B/ffffff?text=ATS+Checker) | ![Cover](https://via.placeholder.com/280x180/00897B/ffffff?text=Cover+Letter) |
+| ![Resume](https://github.com/ashishraj-hub/AI-Resume-Portfolio-Builder/blob/main/assets/Resume%20Generator.png) | ![ATS](https://via.placeholder.com/280x180/FF4B4B/ffffff?text=ATS+Checker) | ![Cover](https://via.placeholder.com/280x180/00897B/ffffff?text=Cover+Letter) |
 
 > 💡 Replace the placeholders above with actual screenshots of your app for maximum impact.
 
