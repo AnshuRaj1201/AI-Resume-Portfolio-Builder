@@ -21,7 +21,7 @@ def show_interview_page():
             "0-1 Years",
             "1-3 Years",
             "5 Years+",
-            "10 Years+
+            "10 Years+"
         ]
     )
 
