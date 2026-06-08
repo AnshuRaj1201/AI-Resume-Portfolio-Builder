@@ -351,8 +351,8 @@ Please make sure your code follows the existing structure and includes clear com
 ### Ashish Raj
 **AI & Machine Learning Developer**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ashishraj--hub-181717?style=for-the-badge&logo=github)](https://github.com/ashishraj-hub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/ashiah-raj-ashishraj/])
+[![GitHub](https://img.shields.io/badge/GitHub-Ashish_Raj-181717?style=for-the-badge&logo=github)](https://github.com/ashishraj-hub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ashish-raj-ashishraj/)
 
 </div>
 
