@@ -13,7 +13,7 @@ def show_linkedin_page():
     name = st.text_input("Enter Your Name")
     education = st.text_area("Education")
     skills = st.text_area("Skills")
-    projects = st.text_area("Projects (Optional")
+    projects = st.text_area("Projects (Optional)")
     goals = st.text_input("Career Goals (Optional)")
 
     #Button
