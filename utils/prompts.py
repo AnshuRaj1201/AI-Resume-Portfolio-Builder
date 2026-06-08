@@ -93,29 +93,6 @@ no explanation, no commentary before or after the resume content.
 """
     return prompt.strip()
  
- 
-# ─────────────────────────────────────────────────────────────────────────────
-# Quick test — prints the prompt so you can inspect it
-# ─────────────────────────────────────────────────────────────────────────────
-if __name__ == "__main__":
-    sample = resume_prompt(
-        name        = "Ashish Raj",
-        email       = "ashishrajara16@gmail.com",
-        phone       = "7070707480",
-        linkedin    = "linkedin.com/in/ashiah-raj-ashishraj",
-        github      = "github.com/ashishraj",
-        education   = "B.Tech in Computer Science Engineering, Bhabha University, 2025, CGPA 8.2",
-        skills      = "Python, C, Machine Learning, NLP, OpenCV, TensorFlow, Streamlit, FastAPI",
-        projects    = """
-1. Study Bot - NLP chatbot for study assistance using Gemini API and LangChain
-2. Fitness Buddy - ML-powered fitness tracker app with Streamlit UI
-3. Water Classifier - ML model to classify water quality, 94% accuracy
-4. Movie Recommendation System - Collaborative filtering engine on 10k movie dataset
-5. AI Resume & Portfolio Builder - Generative AI tool for resume and portfolio generation
-""",
-        target_role = "AI/ML Engineer Intern"
-    )
-    print(sample)
 
 def cover_letter_prompt(name,job_role,company,skills,experience):
     prompt = f"""
