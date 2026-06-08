@@ -68,7 +68,7 @@ def show_home_page():
     st.divider()
     col1, col2, col3 = st.columns(3)
     with col1:
-        st.metric("AI Features", 5)
+        st.metric("AI Features", 6)
 
     with col2:
         st.metric("PDF Export","Yes")
