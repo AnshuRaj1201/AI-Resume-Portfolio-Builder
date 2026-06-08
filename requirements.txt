@@ -1,6 +1,6 @@
 streamlit
 google-generativeai
 python-dotenv
-fpdf
+fpdf2
 pypdf
 python-docx
