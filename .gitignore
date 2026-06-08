@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+*.pyc
+resume.pdf
+ats_report.pdf
+*.log
+.streamlit/
+.idea/
+.vscode/
+.DS_Store
