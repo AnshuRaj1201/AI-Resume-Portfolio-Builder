@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="[YOUR_STREAMLIT_APP_LINK](https://ai-resume-portfolio-builder-ashish.streamlit.app/)">
+  <a href="[[APP_LINK](https://ai-resume-portfolio-builder-ashish.streamlit.app/)]">
     <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit" height="35"/>
   </a>
 </p>
@@ -26,7 +26,7 @@
 
 <br/>
 
-> **🌐 Live App:** [Click here to try it now →](YOUR_STREAMLIT_APP_LINK)
+> **🌐 Live App:** [Click here to try it now →]([APP_LINK](https://ai-resume-portfolio-builder-ashish.streamlit.app/))
 > 
 > Deployed on **Streamlit Community Cloud** — free, fast, no setup needed.
 
@@ -261,7 +261,7 @@ Open your browser and go to `http://localhost:8501` 🎉
 
 This project is **live** on Streamlit Community Cloud.
 
-**🔗 Live URL:** [YOUR_STREAMLIT_APP_LINK](YOUR_STREAMLIT_APP_LINK)
+**🔗 Live URL:** [[APP_LINK](https://ai-resume-portfolio-builder-ashish.streamlit.app/)]
 
 To deploy your own fork:
 
@@ -352,7 +352,7 @@ Please make sure your code follows the existing structure and includes clear com
 **AI & Machine Learning Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-ashishraj--hub-181717?style=for-the-badge&logo=github)](https://github.com/ashishraj-hub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ashiah-raj-ashishraj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/ashiah-raj-ashishraj/])
 
 </div>
 
