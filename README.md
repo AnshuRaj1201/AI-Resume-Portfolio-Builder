@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_STREAMLIT_APP_LINK">
+  <a href="[YOUR_STREAMLIT_APP_LINK](https://ai-resume-portfolio-builder-ashish.streamlit.app/)">
     <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit" height="35"/>
   </a>
 </p>
