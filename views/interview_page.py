@@ -19,7 +19,9 @@ def show_interview_page():
             "Fresher",
             "Intern",
             "0-1 Years",
-            "1-3 Years"
+            "1-3 Years",
+            "5 Years+",
+            "10 Years+
         ]
     )
 
