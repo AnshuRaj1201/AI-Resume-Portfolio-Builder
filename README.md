@@ -40,7 +40,7 @@
 
 | Resume Generator | ATS Checker | Cover Letter |
 |:---:|:---:|:---:|
-| ![Resume](https://github.com/ashishraj-hub/AI-Resume-Portfolio-Builder/blob/main/assets/Resume%20Generator.png) | ![ATS](https://github.com/ashishraj-hub/AI-Resume-Portfolio-Builder/blob/main/assets/ATS%20Score%20Checker.png) | ![Cover](https://github.com/ashishraj-hub/AI-Resume-Portfolio-Builder/blob/main/assets/Cover%20Letter%20Generator.png) |
+| ![Resume](https://github.com/AnshuRaj1201/AI-Resume-Portfolio-Builder/blob/main/assets/Resume%20Generator.png) | ![ATS](https://github.com/AnshuRaj1201/AI-Resume-Portfolio-Builder/blob/main/assets/ATS%20Score%20Checker.png) | ![Cover](https://github.com/AnshuRaj1201/AI-Resume-Portfolio-Builder/blob/main/assets/Cover%20Letter%20Generator.png) |
 
 >
 
@@ -229,7 +229,7 @@ AI-Resume-Portfolio-Builder/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/ashishraj-hub/AI-Resume-Portfolio-Builder.git
+git clone https://github.com/AnshuRaj1201/AI-Resume-Portfolio-Builder.git
 
 # 2. Navigate into the project
 cd AI-Resume-Portfolio-Builder
@@ -346,13 +346,13 @@ Please make sure your code follows the existing structure and includes clear com
 
 <div align="center">
 
-<img src="https://github.com/ashishraj-hub.png" width="100" style="border-radius:50%"/>
+<img src="https://github.com/AnshuRaj1201.png" width="100" style="border-radius:50%"/>
 
-### Ashish Raj
+### Anshu Raj
 **AI & Machine Learning Developer**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ashish_Raj-181717?style=for-the-badge&logo=github)](https://github.com/ashishraj-hub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ashish-raj-ashishraj/)
+[![GitHub](https://github.com/AnshuRaj1201)
+[![LinkedIn](https://www.linkedin.com/in/anshuraj1201/)
 
 </div>
 
@@ -365,7 +365,7 @@ If this project helped you or you found it interesting:
 - 🌟 **Star** this repository — it helps others discover it
 - 🍴 **Fork** it to build your own version
 - 📢 **Share** it with classmates and batchmates
-- 🐛 **Report bugs** or suggest features via [Issues](https://github.com/ashishraj-hub/AI-Resume-Portfolio-Builder/issues)
+- 🐛 **Report bugs** or suggest features via [Issues](https://github.com/AnshuRaj1201/AI-Resume-Portfolio-Builder/issues)
 
 ---
 
@@ -378,11 +378,11 @@ Feel free to use, modify, and build on it with attribution.
 
 <div align="center">
 
-**Made by [Ashish Raj](https://github.com/ashishraj-hub)**
+**Made by [Anshu Raj](https://github.com/AnshuRaj1201)**
 
 *Helping students get hired, one resume at a time.*
 
-<img src="https://komarev.com/ghpvc/?username=ashishraj-hub&label=Profile+Views&color=6C63FF&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=AnshuRaj1201&label=Profile+Views&color=6C63FF&style=flat" alt="Profile Views"/>
 
 </div>
 
@@ -392,7 +392,7 @@ Feel free to use, modify, and build on it with attribution.
 
 **⭐ If this project helped you, please give it a star! It motivates continued development.**
 
-[![Star History](https://img.shields.io/github/stars/ashishraj-hub/AI-Resume-Portfolio-Builder?style=social)](https://github.com/ashishraj-hub/AI-Resume-Portfolio-Builder)
+[![Star History](https://img.shields.io/github/stars/AnshuRaj1201/AI-Resume-Portfolio-Builder?style=social)](https://github.com/AnshuRaj1201/AI-Resume-Portfolio-Builder)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
