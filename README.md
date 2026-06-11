@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="[[APP_LINK](https://ai-resume-portfolio-builder-anshu.streamlit.app/)]">
+  <a href="[[APP_LINK]([https://ai-resume-portfolio-builder-anshu.streamlit.app/)]">
     <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit" height="35"/>
   </a>
 </p>
@@ -26,7 +26,7 @@
 
 <br/>
 
-> **🌐 Live App:** [[APP_LINK](https://ai-resume-portfolio-builder-anshu.streamlit.app/)]
+> **🌐 Live App:** [[APP_LINK](https://ai-resume-portfolio-builder-anshuraj.streamlit.app/)]
 > 
 > Deployed on **Streamlit Community Cloud** — free, fast, no setup needed.
 
@@ -261,7 +261,7 @@ Open your browser and go to `http://localhost:8501` 🎉
 
 This project is **live** on Streamlit Community Cloud.
 
-**🔗 Live URL:** [[APP_LINK](https://ai-resume-portfolio-builder-ashish.streamlit.app/)]
+**🔗 Live URL:** [[APP_LINK](https://ai-resume-portfolio-builder-anshuraj.streamlit.app/)]
 
 To deploy your own fork:
 
