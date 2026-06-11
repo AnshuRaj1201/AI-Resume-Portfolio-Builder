@@ -352,7 +352,7 @@ Please make sure your code follows the existing structure and includes clear com
 **AI & Machine Learning Developer**
 
 [![GitHub](https://github.com/AnshuRaj1201)
-[![LinkedIn](https://www.linkedin.com/in/anshuraj1201/)
+[![LinkedIn](www.linkedin.com/in/anshuraj1201)
 
 </div>
 
